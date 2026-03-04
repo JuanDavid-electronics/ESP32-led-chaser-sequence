@@ -43,4 +43,4 @@ Hecho con ❤️ por Juan David Moreno Jurado
 📍 Zarzal / Cali, Valle del Cauca, Colombia  
 📧 juandavidmorenojurado422@gmail.com  
 🔗 Perfil GitHub: github.com/JuanDavid-electronics
-🔗 link workana: 
+🔗 link workana: https://www.workana.com/freelancer/b6f6f09021f3b2d07c5f3a2df5ac3683
